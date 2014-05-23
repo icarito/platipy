@@ -24,6 +24,8 @@ There are several anchor points available, each given by a different string. The
 Keyboard Keys
 -------------
 
+XO laptops have dedicated "game keys" which correspond with arrow keys on the left, and special keys on the right (Triangle, Circle, Cross, and Square). These keys map to keypad numbers 8,4,6,2 for arrow keys and 9,7,3,1 for the special keys on the right of the screen.
+
 .. _ref.mods:
 
 Keyboard Modifiers
